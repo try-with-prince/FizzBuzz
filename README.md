@@ -1,5 +1,5 @@
 //# FizzBuzz
-//Also used shift function( shifting value at -1 index)
+//Also used shift function( shifting value at -1 index, basically remove first element )
 
 /**
  * @param {number} n
